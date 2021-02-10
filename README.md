@@ -1,1 +1,2 @@
 # Handwrite-Character-Recognition
+In this project, we aim to recognize the handwritten letters. First of all we get the dataset from https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format which has 785 attibutes per each instance. 1 attribute for label and the rest 784 attributes are for pixel's RGB values( 28*28 pixels) from 0-255. the dataset need to be in data subfolder of the folder containing .py files. Three models are compared: Decision Trees, Naive Bayes and CNN. 
